@@ -28,4 +28,4 @@ cout << "Factorial of " << no << " is " << fac << endl;  // print Factorial
 
 
    
-}
+
